@@ -70,7 +70,7 @@ https://www.python.org/downloads/
 Open terminal/cmd inside the project folder and run:
 
 ```bash
-python "Final Project.py"
+python "My Mega Mall.py"
 ```
 
 ---
